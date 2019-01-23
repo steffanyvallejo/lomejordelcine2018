@@ -1,6 +1,8 @@
 /* Cargar las noticias de noticias.json y noticias.xml */
 var div;
-function addNew(titulo, url, genero, descripcion) {
+
+/*title,rating,estudio, duracion,diretor,genero,imagen*/
+function addNew(titulo, rating,estudio, min, director, genero, lugar,descripcion) {
   
   /*autor*/
   var title = $("<p/>", {
@@ -15,7 +17,7 @@ function addNew(titulo, url, genero, descripcion) {
    
     "class": "contenido card-title col-md-12 col-12  col-sm-12 py-0 py+0 mx+0 my ",
     
-    html: genero
+    html: genero+" | " +estudio+" | Director: "+director
   })
 
    p.addClass("contenido");
@@ -24,14 +26,14 @@ function addNew(titulo, url, genero, descripcion) {
    
     "class": "contenido card-title col-md-12 col-12  col-sm-12 py-0 py+0 mx+0 my ",
     
-    html: url +" minutos"
+    html: min +" minutos"
   })
 
 
   /*logo*/
    var imagen = $("<img/>", {
     "class": "card-text col-sm-12 col-md-12 col-12 img-fluid",
-    "src": String(descripcion),
+    "src": "//"+descripcion,
     "style":"max-height:200px; max-width:150px; min-height:40px; min-width:50px",
     html: imagen
 
@@ -74,9 +76,9 @@ function addNew(titulo, url, genero, descripcion) {
 
 
 function loadPeliculasJson(){
-  $.getJSON("csvjson.json", function (data) {
+  $.getJSON("data.json", function (data) {
     for (var i = 0; i < data.length; i++) {
-      addNew(data[i]['TITULO'], data[i]['DURACION'], data[i]['GENERO'],  data[i]['IMAGEN'])
+      addNew(data[i]['TITULO'],data[i]['RATING'],data[i]['ESTUDIO'], data[i]['DURACION'],data[i]['DIRECTOR'], data[i]['GENERO'], data[i]['LOCALIDAD'], data[i]['IMAGEN'])/*title,rating,estudio, duracion,diretor,genero,imagen*/
     }
   });
 }
