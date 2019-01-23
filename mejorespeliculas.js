@@ -34,7 +34,7 @@ function addNew(titulo, rating,estudio, min, director, genero, lugar,descripcion
    var imagen = $("<img/>", {
     "class": "card-text col-sm-12 col-md-12 col-12 img-fluid",
     "src": descripcion,
-    "style":"max-height:300px; max-width:150px; min-height:40px; min-width:50px",
+    "style":"max-height:auto; max-width:auto; min-height:40px; min-width:50px",
     html: imagen
 
   })
