@@ -1,37 +1,40 @@
+/*https://www.anychart.com/es/products/anychart/gallery/Pie_and_Donut_Charts/Donut_Chart_with_Outside_Labels.php*/
 
-
-
-anychart.onDocumentReady(function() {
+anychart.onDocumentReady(function () {
+  var drama = 0, comedy = 0, science = 0, adventure = 0, accion = 0, suspense = 0, otro = 0;
   // create pie chart with passed data
-var drama=5, comedy=1, science=10, adventure=1, kids=0, suspense=0, otro =20;
-alert(drama);
-$.getJSON("data.json", function (data) {
-  
+  $.getJSON("data.json", function (data) {
     for (var i = 0; i < data.length; i++) {
-      var dato= data[i]['GENERO']/*title,rating,estudio, duracion,diretor,genero,imagen*/
-      if( dato.indexOf("Drama") > -1)
+      var dato = data[i]['GENERO'];
+      if (dato.includes('Drama')) {
         drama++;
-      else  if( dato.indexOf("Comedy") > -1)
+       
+      }
+      else  if (dato.includes('Comedy')) {
         comedy++;
-      else  if( dato.indexOf("Science") > -1)
+      }
+      else if (dato.includes('Science')) {
         science++;
-      else if( dato.indexOf("Adventure") > -1)
+      }
+      else if (dato.includes('Adventure')) {
         adventure++;
-      else if( dato.indexOf("Suspense") > -1)
+      }
+      else if (dato.includes('Suspense')!=1) {
         suspense++;
+      }
+      else if (dato.includes('Action')!=1) {
+        accion++;
+      }
       else
         otro++;
     }
-  });
-
-
-
 
   var chart = anychart.pie([
-    ['Drama', drama,
+    ['Drama', drama],
     ['Comedia', comedy],
-    ['Ciencia', science],
-    ['Aventura', adventure ],
+    ['Suspenso', suspense],
+    ['Aventura', adventure],
+    ['Acción', accion],
     ['Otros', otro]
   ]);
 
@@ -47,8 +50,9 @@ $.getJSON("data.json", function (data) {
   chart.container('container');
   // initiate chart drawing
   chart.draw();
-});
-
-
+  });
 
   
+
+  
+});
