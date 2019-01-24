@@ -3,15 +3,29 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
-    <title>Lo mejor en Cine</title>
+    <title>Estudios</title>
     <link href="estilo.css" rel="stylesheet" type="text/css" />
-    <link href="peliculas.css" rel="stylesheet" type="text/css" />
+    <link href="estadistico.css" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     <link rel="shortcut icon" href="https://png.pngtree.com/element_origin_min_pic/17/07/28/7f1dc8f645c9ca6cd5fdc80a66a95e88.jpg">
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,700' rel='stylesheet' type='text/css'>
     <link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.4.2/css/all.css' integrity='sha384-/rXc/GQVaYpyDdyxK+ecHPVYJSN9bmVFBvjA/9eOB+pb3F2w2N6fc5qB9Ew5yIns' crossorigin='anonymous'>
-   
-  </head>
+    <script src="https://cdn.anychart.com/releases/v8/js/anychart-base.min.js?hcode=be5162d915534272a57d0bb781d27f2b">
+
+  </script>
+  <script src="https://cdn.anychart.com/releases/v8/js/anychart-ui.min.js?hcode=be5162d915534272a57d0bb781d27f2b">
+
+  </script>
+  <script src="https://cdn.anychart.com/releases/v8/js/anychart-exports.min.js?hcode=be5162d915534272a57d0bb781d27f2b">
+
+  </script>
+  <link rel="stylesheet" href="https://cdn.anychart.com/releases/v8/css/anychart-ui.min.css?hcode=be5162d915534272a57d0bb781d27f2b"
+  />
+  <link rel="stylesheet" href="https://cdn.anychart.com/releases/v8/fonts/css/anychart-font.min.css?hcode=be5162d915534272a57d0bb781d27f2b"
+  />
+  <script src="estudios.js">
+
+  </script>
   <body>
 <body>
 <div class="container">
@@ -24,47 +38,33 @@
                      </button>
                     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                         <ul class="list-inline navbar-nav mx-auto">
-                                <li class="list-inline-item nav-intem active"><a href="mejorespeliculas.html" class="nav-link">Mejores Películas</a></li>
+                               <li class="list-inline-item nav-intem active"><a href="mejorespeliculas.html" class="nav-link">Mejores Películas</a></li>
                                 <li class="list-inline-item nav-intem active"><a href="cineestadistico.html" class="nav-link">Cine estadístico</a></li>
                                 <li class="list-inline-item nav-intem active"><a href="mapa_view.html" class="nav-link">GeoCine</a></li>
                                 <li class="list-inline-item nav-intem active"><a href="estudios_view.html" class="nav-link">Cine Calidad</a></li>
+                        </ul>      
                         </ul>    
                     </div> 
                
                 </nav>
   </div>
-
-   
-        <div class="row">
+  <div class="row">
         <div class="gallery col-lg-12 col-md-12 col-sm-12 col-xs-12 mt-4">
-            <h1>Lo mejor del cine 2018 </h1>
+            <h1>Cine Calidad </h1>
         </div>
         </div>
-
-         <div class="row">
-        <div class="gallery_product col-lg-12 col-md-12 col-sm-12 col-xs-12 ">
-                  <img class="free-image1  zoom">
-                  <div class = "overlay">
-                    <p class = "info text-center">
-                        
-                        <br>Lo mejor del cine 2018 te presenta las películas más vistas y más buscadas del año, por medio de sitios web oficiales de cine y páginas que brinda servicio de cine online. 
-                        Nuestro objetivo es brindarte lo mejor del cine, tu sólo elige tu mejor opción.
-
-                        <br>
-                  </p>
-                 </div>
-                
         </div>
-         </div>
-       </div>
+   
+        
+        <div id="container"></div>
+   
 
-  <script
+   <script
   src="https://code.jquery.com/jquery-3.3.1.min.js"
   integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
   crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
-  
   </body>
 
 </html>

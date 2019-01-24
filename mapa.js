@@ -1,4 +1,6 @@
 
+  var localidades = ['Vancouver British Columbia Canada','Elmcrest Public School Mississauga Ontario Canada', 'Windsor Great Park Windsor Berkshire England UK' ,'Atlanta Georgia USA', 'Paris','Los Angeles California USA', 'Ossining']
+ 
 
 function loadPeliculasJson() {
   $.getJSON("data.json", function (data) {
@@ -12,26 +14,24 @@ function loadPeliculasJson() {
 }
 
 function initMap() {
-  var localidades = [];
+  var localidad = [];
   var contador=0;
    $.getJSON("data.json", function (data) {
     for (var i = 0; i < data.length; i++) {
       if (data[i]['LOCALIDAD'].length > 4  ){
-        localidades[i] = data[i]['LOCALIDAD'];
+        localidad = data[i]['LOCALIDAD'];
         //alert(localidades[i])
        
         }
     }
      var map = new google.maps.Map(document.getElementById('map'), {
-    zoom: 1,
+    zoom: 4,
     center: { lat: -34.397, lng: 150.644 }
   });
 
-  var lista = ['Vancouver British Columbia Canada','Elmcrest Public School Mississauga Ontario Canada', 'Windsor Great Park Windsor Berkshire England UK' ,'Atlanta Georgia USA', 'Los Angeles California USA', 'Ossining']
- 
   var geocoder = new google.maps.Geocoder();
 
-  geocodeAddress(geocoder, map, lista);
+  geocodeAddress(geocoder, map, localidades);
 
 
   });
