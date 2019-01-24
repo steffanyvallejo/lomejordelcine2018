@@ -1,43 +1,243 @@
 [
   {
-    "TITULO": "Avengers: Infinity War",
-    "RATING": 85,
-    "ESTUDIO": "Walt Disney Pictures",
-    "DURACION": 156,
-    "DIRECTOR": "Anthony RussoJoe Russo",
-    "GENERO": "[Action   Adventure Science Fiction   Fantasy]",
-    "LOCALIDAD": "Pinewood Atlanta Studios 461 Sandy Creek Road Fayetteville Georgia USA",
-    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
+    "TITULO": "Paddington 2",
+    "RATING": 100,
+    "ESTUDIO": "Warner Bros. Pictures",
+    "DURACION": 105,
+    "DIRECTOR": "Paul King (VII)",
+    "GENERO": "[Animation Comedy Kids   Family]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/paddington_two_ver2-150x210.jpg"
   },
   {
-    "TITULO": "Burning (Beoning)",
-    "RATING": 95,
-    "ESTUDIO": "Well Go USA Entertainment",
-    "DURACION": 148,
-    "DIRECTOR": "Chang-dong Lee",
-    "GENERO": "[Art House   International Drama Mystery   Suspense]",
+    "TITULO": "Leave No Trace",
+    "RATING": 100,
+    "ESTUDIO": "Bleecker Street",
+    "DURACION": 109,
+    "DIRECTOR": "Debra Granik",
+    "GENERO": "[Drama]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/leave_no_trace-150x210.jpg"
+  },
+  {
+    "TITULO": "Summer 1993 (Estiu 1993)",
+    "RATING": 100,
+    "ESTUDIO": "Oscilloscope Laboratories",
+    "DURACION": 96,
+    "DIRECTOR": "Carla Sim%uFFFDn",
+    "GENERO": "[Art House   International Drama]",
     "LOCALIDAD": "N/A",
     "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
   },
   {
-    "TITULO": "Mission: Impossible - Fallout",
-    "RATING": 97,
-    "ESTUDIO": "Paramount Pictures",
-    "DURACION": 147,
-    "DIRECTOR": "Christopher McQuarrie",
-    "GENERO": "[Action   Adventure Drama Mystery   Suspense]",
-    "LOCALIDAD": "Paris France",
+    "TITULO": "Minding the Gap",
+    "RATING": 100,
+    "ESTUDIO": "Hulu",
+    "DURACION": 93,
+    "DIRECTOR": "Bing Liu",
+    "GENERO": "[Documentary]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/MV5BMTA0MDk4MzMwOTBeQTJeQWpwZ15BbWU4MDE3MzYxOTUz._V1_SY1000_CR006751000_AL_-150x210.jpg"
+  },
+  {
+    "TITULO": "Shirkers",
+    "RATING": 100,
+    "ESTUDIO": "Netflix",
+    "DURACION": 96,
+    "DIRECTOR": "Sandi Tan",
+    "GENERO": "[Documentary]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/SHIRKERS_Vertical_RGB-150x210.jpg"
+  },
+  {
+    "TITULO": "Pick of the Litter",
+    "RATING": 100,
+    "ESTUDIO": "Sundance Selects",
+    "DURACION": 81,
+    "DIRECTOR": "Dana NachmanDon Hardy Jr.",
+    "GENERO": "[Documentary]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/Pick-of-the-Litter-150x210.jpg"
+  },
+  {
+    "TITULO": "Oh Lucy!",
+    "RATING": 100,
+    "ESTUDIO": "Film Movement",
+    "DURACION": 96,
+    "DIRECTOR": "Atsuko Hirayanagi",
+    "GENERO": "[Comedy Drama]",
+    "LOCALIDAD": "N/A",
     "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
   },
   {
-    "TITULO": "First Man",
-    "RATING": 88,
-    "ESTUDIO": "Universal Pictures",
-    "DURACION": 138,
-    "DIRECTOR": "Damien Chazelle",
+    "TITULO": "Hannah Gadsby: Nanette",
+    "RATING": 100,
+    "ESTUDIO": "Netflix",
+    "DURACION": 69,
+    "DIRECTOR": "Madeleine ParryJon Olb",
+    "GENERO": "[Comedy]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
+  },
+  {
+    "TITULO": "Night Comes On",
+    "RATING": 100,
+    "ESTUDIO": "Samuel Goldwyn Films",
+    "DURACION": 87,
+    "DIRECTOR": "Jordana Spiro",
     "GENERO": "[Drama]",
-    "LOCALIDAD": "Atlanta Georgia USA",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/First-Man-movie-poster1-150x210.jpg"
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/Night-Comes-On-movie-poster-150x210.jpg"
+  },
+  {
+    "TITULO": "Eighth Grade",
+    "RATING": 99,
+    "ESTUDIO": "A24",
+    "DURACION": 94,
+    "DIRECTOR": "Bo Burnham",
+    "GENERO": "[Comedy]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/unnamed-119-150x210.jpg"
+  },
+  {
+    "TITULO": "Shoplifters (Manbiki kazoku)",
+    "RATING": 99,
+    "ESTUDIO": "Magnolia Pictures",
+    "DURACION": 121,
+    "DIRECTOR": "Hirokazu Koreeda",
+    "GENERO": "[Art House   International Drama]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
+  },
+  {
+    "TITULO": "McQueen",
+    "RATING": 99,
+    "ESTUDIO": "Bleecker Street",
+    "DURACION": 111,
+    "DIRECTOR": "Ian Bonh%uFFFDte",
+    "GENERO": "[Documentary]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/McQueen-movie-poster-150x210.jpg"
+  },
+  {
+    "TITULO": "The Guilty (Den skyldige)",
+    "RATING": 99,
+    "ESTUDIO": "Magnolia Pictures",
+    "DURACION": 85,
+    "DIRECTOR": "Gustav M%uFFFDller",
+    "GENERO": "[Drama Mystery   Suspense]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
+  },
+  {
+    "TITULO": "Tea With the Dames (Nothing Like a Dame)",
+    "RATING": 99,
+    "ESTUDIO": "94 minutes",
+    "DURACION": "N/A",
+    "DIRECTOR": "Roger Michell",
+    "GENERO": "[Documentary]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
+  },
+  {
+    "TITULO": "The Tale",
+    "RATING": 99,
+    "ESTUDIO": "HBO Films",
+    "DURACION": 114,
+    "DIRECTOR": "Jennifer Fox",
+    "GENERO": "[Drama]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
+  },
+  {
+    "TITULO": "Won't You Be My Neighbor?",
+    "RATING": 98,
+    "ESTUDIO": "Focus Features",
+    "DURACION": 94,
+    "DIRECTOR": "Morgan Neville",
+    "GENERO": "[Documentary]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
+  },
+  {
+    "TITULO": "Can You Ever Forgive Me?",
+    "RATING": 98,
+    "ESTUDIO": "Fox Searchlight Pictures",
+    "DURACION": 107,
+    "DIRECTOR": "Marielle Heller",
+    "GENERO": "[Comedy Drama]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
+  },
+  {
+    "TITULO": "Free Solo",
+    "RATING": 98,
+    "ESTUDIO": "Greenwich Entertainment",
+    "DURACION": 97,
+    "DIRECTOR": "Elizabeth Chai VasarhelyiJimmy Chin",
+    "GENERO": "[Documentary]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/free_solo-150x210.jpg"
+  },
+  {
+    "TITULO": "Border (Gr%uFFFDns)",
+    "RATING": 98,
+    "ESTUDIO": "NEON",
+    "DURACION": 110,
+    "DIRECTOR": "",
+    "GENERO": "[Art House   International Mystery   Suspense Science Fiction   Fantasy Romance]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
+  },
+  {
+    "TITULO": "Science Fair",
+    "RATING": 98,
+    "ESTUDIO": "National Geographic Documentary Films",
+    "DURACION": 90,
+    "DIRECTOR": "Cristina CostantiniDarren Foster",
+    "GENERO": "[Documentary]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/MV5BODVhOTViYTUtZmZmYy00Y2Y3LTlkMWItNzY4ZWQxMzA1ZjVlXkEyXkFqcGdeQXVyMzM1MTk1Mzg@._V1_SY1000_CR006751000_AL_-150x210.jpg"
+  },
+  {
+    "TITULO": "In Between",
+    "RATING": 98,
+    "ESTUDIO": "Film Movement",
+    "DURACION": 96,
+    "DIRECTOR": "Maysaloun Hamoud",
+    "GENERO": "[Drama]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/In-Between-movie-poster-150x210.jpg"
+  },
+  {
+    "TITULO": "The Cakemaker",
+    "RATING": 98,
+    "ESTUDIO": "Strand Releasing",
+    "DURACION": 105,
+    "DIRECTOR": "Ofir Raul Graizer",
+    "GENERO": "[Drama]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/The-Cakemaker-movie-poster-150x210.jpg"
+  },
+  {
+    "TITULO": "Ryuichi Sakamoto: Coda",
+    "RATING": 98,
+    "ESTUDIO": "102 minutes",
+    "DURACION": "N/A",
+    "DIRECTOR": "",
+    "GENERO": "[Documentary]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
+  },
+  {
+    "TITULO": "Leaning Into the Wind",
+    "RATING": 98,
+    "ESTUDIO": "Magnolia Pictures",
+    "DURACION": 93,
+    "DIRECTOR": "Thomas Riedelsheimer",
+    "GENERO": "[Art House   International Documentary]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/leaning_into_the_wind_andy_goldsworthy-150x210.jpg"
   },
   {
     "TITULO": "Black Panther",
@@ -46,46 +246,26 @@
     "DURACION": 135,
     "DIRECTOR": "Ryan Coogler",
     "GENERO": "[Action   Adventure Drama Science Fiction   Fantasy]",
-    "LOCALIDAD": "Pinewood Atlanta Studios 461 Sandy Creek Road Fayetteville Georgia USA",
+    "LOCALIDAD": "Pinewood Atlanta Studios",
     "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/black_panther_ver3-150x210.jpg"
   },
   {
-    "TITULO": "BlacKkKlansman",
-    "RATING": 95,
-    "ESTUDIO": "Focus Features",
-    "DURACION": 135,
-    "DIRECTOR": "Spike Lee",
-    "GENERO": "[Comedy Drama]",
-    "LOCALIDAD": "Ossining New York USA",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/DieRmrfU0AEoRdr.jpg-large-150x210.jpg"
-  },
-  {
-    "TITULO": "A Star Is Born",
-    "RATING": 90,
-    "ESTUDIO": "Warner Bros. Pictures",
-    "DURACION": 135,
-    "DIRECTOR": "Bradley Cooper",
-    "GENERO": "[Drama]",
-    "LOCALIDAD": "N/A",
+    "TITULO": "Mission: Impossible - Fallout",
+    "RATING": 97,
+    "ESTUDIO": "Paramount Pictures",
+    "DURACION": 147,
+    "DIRECTOR": "Christopher McQuarrie",
+    "GENERO": "[Action   Adventure Drama Mystery   Suspense]",
+    "LOCALIDAD": "Paris",
     "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
   },
   {
-    "TITULO": "Roma",
-    "RATING": 96,
-    "ESTUDIO": "Netflix",
-    "DURACION": 135,
-    "DIRECTOR": "Alfonso Cuar%uFFFDn",
-    "GENERO": "[Drama]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/unnamed380-150x210.jpg"
-  },
-  {
-    "TITULO": "The Guardians (Les Gardiennes)",
-    "RATING": 94,
-    "ESTUDIO": "Music Box Films",
-    "DURACION": 134,
-    "DIRECTOR": "Xavier Beauvois",
-    "GENERO": "[Art House   International Drama]",
+    "TITULO": "Spider-Man: Into the Spider-Verse",
+    "RATING": 97,
+    "ESTUDIO": "Sony Pictures",
+    "DURACION": 100,
+    "DIRECTOR": "Bob PersichettiPeter RamseyRodney Rothman",
+    "GENERO": "[Action   Adventure Animation Kids   Family Science Fiction   Fantasy]",
     "LOCALIDAD": "N/A",
     "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
   },
@@ -100,124 +280,84 @@
     "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/Di86nOqWwAAFGka.jpg-large-150x210.jpg"
   },
   {
-    "TITULO": "The Ballad of Buster Scruggs",
-    "RATING": 92,
-    "ESTUDIO": "Netflix",
-    "DURACION": 132,
-    "DIRECTOR": "Joel CoenEthan Coen",
-    "GENERO": "[Drama Western]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/MV5BOTQxNjE0ODgtMzc2NC00ZTk0LTg4MmUtMGNjMDQ0NmFmOTU1XkEyXkFqcGdeQXVyNTMwNTc4NTY@._V1_SY1000_CR006861000_AL_-150x210.jpg"
-  },
-  {
-    "TITULO": "Call Me by Your Name",
-    "RATING": 95,
+    "TITULO": "The Rider",
+    "RATING": 97,
     "ESTUDIO": "Sony Pictures Classics",
-    "DURACION": 130,
-    "DIRECTOR": "Luca Guadagnino",
-    "GENERO": "[Drama Romance]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
-  },
-  {
-    "TITULO": "Phantom Thread",
-    "RATING": 92,
-    "ESTUDIO": "Focus Features",
-    "DURACION": 130,
-    "DIRECTOR": "Paul Thomas Anderson",
+    "DURACION": 104,
+    "DIRECTOR": "Chlo%uFFFD Zhao",
     "GENERO": "[Drama]",
     "LOCALIDAD": "N/A",
-    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/rider-150x210.jpg"
   },
   {
-    "TITULO": "Loveless (Nelyubov)",
-    "RATING": 94,
-    "ESTUDIO": "Sony Pictures Classics",
-    "DURACION": 129,
-    "DIRECTOR": "Andrey Zvyagintsev",
-    "GENERO": "[Art House   International Drama]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
-  },
-  {
-    "TITULO": "Widows",
-    "RATING": 91,
-    "ESTUDIO": "20th Century Fox",
-    "DURACION": 128,
-    "DIRECTOR": "Steve McQueen (III)",
-    "GENERO": "[Drama]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/MV5BMjM3ODc5NDEyOF5BMl5BanBnXkFtZTgwMTI4MDcxNjM@._V1_SY1000_CR006311000_AL_-150x210.jpg"
-  },
-  {
-    "TITULO": "Hereditary",
-    "RATING": 89,
-    "ESTUDIO": "Windy Hill Pictures",
-    "DURACION": 127,
-    "DIRECTOR": "Ari Aster",
-    "GENERO": "[Drama Horror]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/Hereditary-movie-poster-150x210.jpg"
-  },
-  {
-    "TITULO": "Blaze",
-    "RATING": 95,
-    "ESTUDIO": "Sundance Selects",
-    "DURACION": 127,
-    "DIRECTOR": "Ethan Hawke",
-    "GENERO": "[Drama]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/MV5BZDY0ZDIwNGUtNmRlZC00OGU3LWJjYzItODJhNzMyMjc2OGJmXkEyXkFqcGdeQXVyODY3Nzc0OTk@._V1_SY1000_SX675_AL_-150x210.jpg"
-  },
-  {
-    "TITULO": "Private Life",
-    "RATING": 94,
-    "ESTUDIO": "Netflix",
-    "DURACION": 123,
-    "DIRECTOR": "Tamara Jenkins",
-    "GENERO": "[Drama]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/PRI_Vertical_RGB-150x210.jpg"
-  },
-  {
-    "TITULO": "Shoplifters (Manbiki kazoku)",
-    "RATING": 99,
-    "ESTUDIO": "Magnolia Pictures",
-    "DURACION": 121,
-    "DIRECTOR": "Hirokazu Koreeda",
-    "GENERO": "[Art House   International Drama]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
-  },
-  {
-    "TITULO": "Lean on Pete",
-    "RATING": 90,
-    "ESTUDIO": "A24",
-    "DURACION": 121,
-    "DIRECTOR": "Andrew Haigh",
-    "GENERO": "[Drama]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/Lean-On-Pete-150x210.jpg"
-  },
-  {
-    "TITULO": "Crazy Rich Asians",
-    "RATING": 91,
+    "TITULO": "They Shall Not Grow Old",
+    "RATING": 97,
     "ESTUDIO": "Warner Bros. Pictures",
-    "DURACION": 120,
-    "DIRECTOR": "Jon M. Chu",
-    "GENERO": "[Comedy]",
+    "DURACION": 99,
+    "DIRECTOR": "Peter Jackson",
+    "GENERO": "[Art House   International Documentary]",
     "LOCALIDAD": "N/A",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/MV5BMTYxNDMyOTAxN15BMl5BanBnXkFtZTgwMDg1ODYzNTM@._V1_SY1000_CR006741000_AL_-150x210.jpg"
+    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
   },
   {
-    "TITULO": "Mandy",
-    "RATING": 92,
-    "ESTUDIO": "RLJE Films",
-    "DURACION": 120,
-    "DIRECTOR": "Panos Cosmatos",
-    "GENERO": "[Action   Adventure Mystery   Suspense]",
+    "TITULO": "I Am Not a Witch",
+    "RATING": 97,
+    "ESTUDIO": "Film Movement",
+    "DURACION": 90,
+    "DIRECTOR": "Rungano Nyoni",
+    "GENERO": "[Art House   International Drama]",
     "LOCALIDAD": "N/A",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/MV5BMjk1MjhmZWQtNzU3OC00NDE4LThlODQtNTdhZGM4M2E3MWZkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_-150x210.jpg"
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/MV5BMmZiMmEzMzAtYzhiZi00NjMwLWJmNzMtMjRkNTI2YTM5N2FiXkEyXkFqcGdeQXVyNTkyMjQwNw@@._V1_SY1000_SX675_AL_-150x210.jpg"
+  },
+  {
+    "TITULO": "Roma",
+    "RATING": 96,
+    "ESTUDIO": "Netflix",
+    "DURACION": 135,
+    "DIRECTOR": "Alfonso Cuar%uFFFDn",
+    "GENERO": "[Drama]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/unnamed380-150x210.jpg"
+  },
+  {
+    "TITULO": "The Death of Stalin",
+    "RATING": 96,
+    "ESTUDIO": "IFC Films",
+    "DURACION": 107,
+    "DIRECTOR": "Armando Iannucci",
+    "GENERO": "[Comedy Drama]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/death_of_stalin-150x210.jpg"
+  },
+  {
+    "TITULO": "Three Identical Strangers",
+    "RATING": 96,
+    "ESTUDIO": "NEON",
+    "DURACION": 96,
+    "DIRECTOR": "Tim Wardle",
+    "GENERO": "[Documentary]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/THREEIDENTICAL_Poster_27x40_R1b-150x210.jpg"
+  },
+  {
+    "TITULO": "Zama",
+    "RATING": 96,
+    "ESTUDIO": "Strand Releasing",
+    "DURACION": 115,
+    "DIRECTOR": "Lucrecia Martel",
+    "GENERO": "[Drama]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/Zama-150x210.jpg"
+  },
+  {
+    "TITULO": "Filmworker",
+    "RATING": 96,
+    "ESTUDIO": "Kino Lorber",
+    "DURACION": 94,
+    "DIRECTOR": "Tony Zierra",
+    "GENERO": "[Art House   International Documentary]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
   },
   {
     "TITULO": "To All the Boys I've Loved Before",
@@ -230,73 +370,23 @@
     "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
   },
   {
-    "TITULO": "American Animals",
-    "RATING": 88,
-    "ESTUDIO": "The Orchard",
-    "DURACION": 120,
-    "DIRECTOR": "Bart Layton",
-    "GENERO": "[Comedy Drama Mystery   Suspense]",
+    "TITULO": "Hale County This Morning This Evening",
+    "RATING": 96,
+    "ESTUDIO": "The Cinema Guild",
+    "DURACION": 76,
+    "DIRECTOR": "RaMell Ross",
+    "GENERO": "[Documentary]",
     "LOCALIDAD": "N/A",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/american_animals_ver4-150x210.jpg"
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/MV5BODBhYmI0NzItODlmNi00OWEzLWI5YWUtOTI0MmY2ZDQxMGQ3XkEyXkFqcGdeQXVyNDUzMzUyNg@@._V1_SY1000_SX675_AL_-150x210.jpg"
   },
   {
-    "TITULO": "The Favourite",
-    "RATING": 93,
-    "ESTUDIO": "Fox Searchlight Pictures Film4 and Waypoint",
-    "DURACION": 119,
-    "DIRECTOR": "Yorgos Lanthimos",
-    "GENERO": "[Drama]",
+    "TITULO": "Bisbee '17",
+    "RATING": 96,
+    "ESTUDIO": "Impact Partners",
+    "DURACION": 89,
+    "DIRECTOR": "Robert Greene",
+    "GENERO": "[Documentary Western]",
     "LOCALIDAD": "N/A",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/MV5BMTg1NzQwMDQxNV5BMl5BanBnXkFtZTgwNDg2NDYyNjM@._V1_SY1000_CR006701000_AL_1-150x210.jpg"
-  },
-  {
-    "TITULO": "I Tonya",
-    "RATING": 89,
-    "ESTUDIO": "NEON",
-    "DURACION": 119,
-    "DIRECTOR": "Craig Gillespie",
-    "GENERO": "[Drama]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
-  },
-  {
-    "TITULO": "Deadpool 2",
-    "RATING": 83,
-    "ESTUDIO": "20th Century Fox",
-    "DURACION": 119,
-    "DIRECTOR": "David Leitch",
-    "GENERO": "[Action   Adventure Comedy]",
-    "LOCALIDAD": "Vancouver British Columbia Canada",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/deadpool_two_ver3-150x210.jpg"
-  },
-  {
-    "TITULO": "Western",
-    "RATING": 95,
-    "ESTUDIO": "Cinema Guild",
-    "DURACION": 119,
-    "DIRECTOR": "Valeska Grisebach",
-    "GENERO": "[Art House   International Drama]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/Western-movie-poster-150x210.jpg"
-  },
-  {
-    "TITULO": "Incredibles 2",
-    "RATING": 94,
-    "ESTUDIO": "Disney/Pixar",
-    "DURACION": 118,
-    "DIRECTOR": "Brad Bird",
-    "GENERO": "[Action   Adventure Animation Kids   Family]",
-    "LOCALIDAD": "Pixar Animation Studios - 1200 Park Avenue Emeryville California USA",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/MV5BMTEzNzY0OTg0NTdeQTJeQWpwZ15BbWU4MDU3OTg3MjUz._V1_SY1000_CR006741000_AL_-150x210.jpg"
-  },
-  {
-    "TITULO": "Ant-Man and the Wasp",
-    "RATING": 88,
-    "ESTUDIO": "Walt Disney Pictures",
-    "DURACION": 118,
-    "DIRECTOR": "Peyton Reed",
-    "GENERO": "[Action   Adventure Comedy Science Fiction   Fantasy]",
-    "LOCALIDAD": "Atlanta Georgia USA",
     "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
   },
   {
@@ -310,54 +400,54 @@
     "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
   },
   {
-    "TITULO": "A Simple Favor",
-    "RATING": 85,
-    "ESTUDIO": "Lionsgate",
-    "DURACION": 116,
-    "DIRECTOR": "Paul Feig",
-    "GENERO": "[Mystery   Suspense]",
-    "LOCALIDAD": "Elmcrest Public School Mississauga Ontario Canada",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/simple_favor_ver8-150x210.jpg"
+    "TITULO": "BlacKkKlansman",
+    "RATING": 95,
+    "ESTUDIO": "Focus Features",
+    "DURACION": 135,
+    "DIRECTOR": "Spike Lee",
+    "GENERO": "[Comedy Drama]",
+    "LOCALIDAD": "Ossining",
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/DieRmrfU0AEoRdr.jpg-large-150x210.jpg"
   },
   {
-    "TITULO": "The Post",
-    "RATING": 88,
-    "ESTUDIO": "20th Century Fox",
-    "DURACION": 115,
-    "DIRECTOR": "Steven Spielberg",
-    "GENERO": "[Drama Mystery   Suspense]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
-  },
-  {
-    "TITULO": "Zama",
-    "RATING": 96,
-    "ESTUDIO": "Strand Releasing",
-    "DURACION": 115,
-    "DIRECTOR": "Lucrecia Martel",
-    "GENERO": "[Drama]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/Zama-150x210.jpg"
-  },
-  {
-    "TITULO": "The Tale",
-    "RATING": 99,
-    "ESTUDIO": "HBO Films",
-    "DURACION": 114,
-    "DIRECTOR": "Jennifer Fox",
-    "GENERO": "[Drama]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
-  },
-  {
-    "TITULO": "Bumblebee",
-    "RATING": 92,
+    "TITULO": "A Quiet Place",
+    "RATING": 95,
     "ESTUDIO": "Paramount Pictures",
-    "DURACION": 114,
-    "DIRECTOR": "Travis Knight",
-    "GENERO": "[Action   Adventure Science Fiction   Fantasy]",
-    "LOCALIDAD": "Los Angeles California USA",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/DryMnm8UUAAoqiw.jpg-large-150x210.jpg"
+    "DURACION": 90,
+    "DIRECTOR": "John Krasinski",
+    "GENERO": "[Drama Horror Mystery   Suspense]",
+    "LOCALIDAD": "Little Falls",
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/quiet_place-150x210.jpg"
+  },
+  {
+    "TITULO": "Call Me by Your Name",
+    "RATING": 95,
+    "ESTUDIO": "Sony Pictures Classics",
+    "DURACION": 130,
+    "DIRECTOR": "Luca Guadagnino",
+    "GENERO": "[Drama Romance]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
+  },
+  {
+    "TITULO": "RBG",
+    "RATING": 95,
+    "ESTUDIO": "Magnolia Pictures",
+    "DURACION": 96,
+    "DIRECTOR": "Betsy WestJulie Cohen",
+    "GENERO": "[Documentary]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/RBG-150x210.jpg"
+  },
+  {
+    "TITULO": "Burning (Beoning)",
+    "RATING": 95,
+    "ESTUDIO": "Well Go USA Entertainment",
+    "DURACION": 148,
+    "DIRECTOR": "Chang-dong Lee",
+    "GENERO": "[Art House   International Drama Mystery   Suspense]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
   },
   {
     "TITULO": "Foxtrot",
@@ -370,12 +460,162 @@
     "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/Foxtrot-movie-poster1-150x210.jpg"
   },
   {
-    "TITULO": "Ralph Breaks the Internet",
-    "RATING": 88,
-    "ESTUDIO": "Walt Disney Animation Studios",
-    "DURACION": 114,
-    "DIRECTOR": "Phil JohnstonRich Moore",
-    "GENERO": "[Animation Comedy Kids   Family Science Fiction   Fantasy]",
+    "TITULO": "The Endless",
+    "RATING": 95,
+    "ESTUDIO": "Well Go USA Entertainment",
+    "DURACION": 112,
+    "DIRECTOR": "Justin BensonAaron Moorhead",
+    "GENERO": "[Horror Mystery   Suspense Science Fiction   Fantasy]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/endless-150x210.jpg"
+  },
+  {
+    "TITULO": "Sweet Country",
+    "RATING": 95,
+    "ESTUDIO": "Samuel Goldwyn Films",
+    "DURACION": 113,
+    "DIRECTOR": "Warwick Thornton",
+    "GENERO": "[Action   Adventure Art House   International Drama]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/unnamed114-150x210.jpg"
+  },
+  {
+    "TITULO": "Blaze",
+    "RATING": 95,
+    "ESTUDIO": "Sundance Selects",
+    "DURACION": 127,
+    "DIRECTOR": "Ethan Hawke",
+    "GENERO": "[Drama]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/MV5BZDY0ZDIwNGUtNmRlZC00OGU3LWJjYzItODJhNzMyMjc2OGJmXkEyXkFqcGdeQXVyODY3Nzc0OTk@._V1_SY1000_SX675_AL_-150x210.jpg"
+  },
+  {
+    "TITULO": "Western",
+    "RATING": 95,
+    "ESTUDIO": "Cinema Guild",
+    "DURACION": 119,
+    "DIRECTOR": "Valeska Grisebach",
+    "GENERO": "[Art House   International Drama]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/Western-movie-poster-150x210.jpg"
+  },
+  {
+    "TITULO": "3 Faces",
+    "RATING": 95,
+    "ESTUDIO": "Celluloid Dreams",
+    "DURACION": 100,
+    "DIRECTOR": "Jafar Panahi",
+    "GENERO": "[Art House   International Drama]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
+  },
+  {
+    "TITULO": "Dark Money",
+    "RATING": 95,
+    "ESTUDIO": "PBS",
+    "DURACION": 99,
+    "DIRECTOR": "Kimberly Reed",
+    "GENERO": "[Documentary]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/Dark-Money-movie-poster-150x210.jpg"
+  },
+  {
+    "TITULO": "Incredibles 2",
+    "RATING": 94,
+    "ESTUDIO": "Disney/Pixar",
+    "DURACION": 118,
+    "DIRECTOR": "Brad Bird",
+    "GENERO": "[Action   Adventure Animation Kids   Family]",
+    "LOCALIDAD": "Pixar Animation Studios - 1200 Park Avenue",
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/MV5BMTEzNzY0OTg0NTdeQTJeQWpwZ15BbWU4MDU3OTg3MjUz._V1_SY1000_CR006741000_AL_-150x210.jpg"
+  },
+  {
+    "TITULO": "A Fantastic Woman (Una mujer fant%uFFFDstica)",
+    "RATING": 94,
+    "ESTUDIO": "Sony Pictures Classics",
+    "DURACION": 100,
+    "DIRECTOR": "Sebasti%uFFFDn Lelio",
+    "GENERO": "[Art House   International Drama]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
+  },
+  {
+    "TITULO": "Wildlife",
+    "RATING": 94,
+    "ESTUDIO": "IFC Films",
+    "DURACION": 104,
+    "DIRECTOR": "Paul Dano",
+    "GENERO": "[Drama]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/wildlife-150x210.jpg"
+  },
+  {
+    "TITULO": "Loveless (Nelyubov)",
+    "RATING": 94,
+    "ESTUDIO": "Sony Pictures Classics",
+    "DURACION": 129,
+    "DIRECTOR": "Andrey Zvyagintsev",
+    "GENERO": "[Art House   International Drama]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
+  },
+  {
+    "TITULO": "Cold War (Zimna wojna)",
+    "RATING": 94,
+    "ESTUDIO": "Amazon Studios",
+    "DURACION": 89,
+    "DIRECTOR": "Pawel Pawlikowski",
+    "GENERO": "[Drama Romance]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
+  },
+  {
+    "TITULO": "Support the Girls",
+    "RATING": 94,
+    "ESTUDIO": "Magnolia Pictures",
+    "DURACION": 90,
+    "DIRECTOR": "Andrew Bujalski",
+    "GENERO": "[Comedy]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/MV5BMWI5YWY1OTAtZmNjMy00M2JhLThmYWItZWM3MmI2YmM4MjJjXkEyXkFqcGdeQXVyODAzODU1NDQ@._V1_SY1000_CR006741000_AL_-150x210.jpg"
+  },
+  {
+    "TITULO": "Custody (Jusqu'%uFFFD la garde)",
+    "RATING": 94,
+    "ESTUDIO": "Kino Lorber",
+    "DURACION": 93,
+    "DIRECTOR": "Xavier Legrand",
+    "GENERO": "[Drama]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
+  },
+  {
+    "TITULO": "Private Life",
+    "RATING": 94,
+    "ESTUDIO": "Netflix",
+    "DURACION": 123,
+    "DIRECTOR": "Tamara Jenkins",
+    "GENERO": "[Drama]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/PRI_Vertical_RGB-150x210.jpg"
+  },
+  {
+    "TITULO": "CAM",
+    "RATING": 94,
+    "ESTUDIO": "94 minutes",
+    "DURACION": "N/A",
+    "DIRECTOR": "Daniel Goldhaber",
+    "GENERO": "[Horror Mystery   Suspense]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
+  },
+  {
+    "TITULO": "The Guardians (Les Gardiennes)",
+    "RATING": 94,
+    "ESTUDIO": "Music Box Films",
+    "DURACION": 134,
+    "DIRECTOR": "Xavier Beauvois",
+    "GENERO": "[Art House   International Drama]",
     "LOCALIDAD": "N/A",
     "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
   },
@@ -390,74 +630,14 @@
     "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
   },
   {
-    "TITULO": "Sweet Country",
-    "RATING": 95,
-    "ESTUDIO": "Samuel Goldwyn Films",
-    "DURACION": 113,
-    "DIRECTOR": "Warwick Thornton",
-    "GENERO": "[Action   Adventure Art House   International Drama]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/unnamed114-150x210.jpg"
-  },
-  {
-    "TITULO": "The Endless",
-    "RATING": 95,
-    "ESTUDIO": "Well Go USA Entertainment",
-    "DURACION": 112,
-    "DIRECTOR": "Justin BensonAaron Moorhead",
-    "GENERO": "[Horror Mystery   Suspense Science Fiction   Fantasy]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/endless-150x210.jpg"
-  },
-  {
-    "TITULO": "McQueen",
-    "RATING": 99,
-    "ESTUDIO": "Bleecker Street",
-    "DURACION": 111,
-    "DIRECTOR": "Ian Bonh%uFFFDte",
-    "GENERO": "[Documentary]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/McQueen-movie-poster-150x210.jpg"
-  },
-  {
-    "TITULO": "Colette",
-    "RATING": 87,
-    "ESTUDIO": "Bleecker Street",
-    "DURACION": 111,
-    "DIRECTOR": "Wash Westmoreland",
+    "TITULO": "The Favourite",
+    "RATING": 93,
+    "ESTUDIO": "Fox Searchlight Pictures Film4 and Waypoint",
+    "DURACION": 119,
+    "DIRECTOR": "Yorgos Lanthimos",
     "GENERO": "[Drama]",
     "LOCALIDAD": "N/A",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/MV5BYTg5YzEyYWMtNmZkNy00ZTJmLTgwM2UtMDJlOWYzMTE5YzUzXkEyXkFqcGdeQXVyNDY2MjcyOTQ@._V1_SY1000_SX675_AL_-150x210.jpg"
-  },
-  {
-    "TITULO": "Border (Gr%uFFFDns)",
-    "RATING": 98,
-    "ESTUDIO": "NEON",
-    "DURACION": 110,
-    "DIRECTOR": "",
-    "GENERO": "[Art House   International Mystery   Suspense Science Fiction   Fantasy Romance]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
-  },
-  {
-    "TITULO": "Leave No Trace",
-    "RATING": 100,
-    "ESTUDIO": "Bleecker Street",
-    "DURACION": 109,
-    "DIRECTOR": "Debra Granik",
-    "GENERO": "[Drama]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/leave_no_trace-150x210.jpg"
-  },
-  {
-    "TITULO": "Love Simon",
-    "RATING": 92,
-    "ESTUDIO": "20th Century Fox",
-    "DURACION": 109,
-    "DIRECTOR": "Greg Berlanti",
-    "GENERO": "[Drama]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/love_simon-150x210.jpg"
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/MV5BMTg1NzQwMDQxNV5BMl5BanBnXkFtZTgwNDg2NDYyNjM@._V1_SY1000_CR006701000_AL_1-150x210.jpg"
   },
   {
     "TITULO": "First Reformed",
@@ -470,34 +650,14 @@
     "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/first_reformed-150x210.jpg"
   },
   {
-    "TITULO": "Revenge",
-    "RATING": 92,
-    "ESTUDIO": "Shudder and NEON",
-    "DURACION": 108,
-    "DIRECTOR": "Coralie Fargeat",
-    "GENERO": "[Action   Adventure Mystery   Suspense]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/revenge_ver3-150x210.jpg"
-  },
-  {
-    "TITULO": "Can You Ever Forgive Me?",
-    "RATING": 98,
-    "ESTUDIO": "Fox Searchlight Pictures",
-    "DURACION": 107,
-    "DIRECTOR": "Marielle Heller",
+    "TITULO": "Blindspotting",
+    "RATING": 93,
+    "ESTUDIO": "Foley Walkers Studio",
+    "DURACION": 95,
+    "DIRECTOR": "Carlos Lopez Estrada",
     "GENERO": "[Comedy Drama]",
     "LOCALIDAD": "N/A",
-    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
-  },
-  {
-    "TITULO": "The Death of Stalin",
-    "RATING": 96,
-    "ESTUDIO": "IFC Films",
-    "DURACION": 107,
-    "DIRECTOR": "Armando Iannucci",
-    "GENERO": "[Comedy Drama]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/death_of_stalin-150x210.jpg"
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/blindspotting_ver4-150x210.jpg"
   },
   {
     "TITULO": "Beast",
@@ -520,14 +680,24 @@
     "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/journeys_end_ver2-150x210.jpg"
   },
   {
-    "TITULO": "Paddington 2",
-    "RATING": 100,
-    "ESTUDIO": "Warner Bros. Pictures",
-    "DURACION": 105,
-    "DIRECTOR": "Paul King (VII)",
-    "GENERO": "[Animation Comedy Kids   Family]",
+    "TITULO": "Kusama: Infinity",
+    "RATING": 93,
+    "ESTUDIO": "Magnolia Pictures",
+    "DURACION": 85,
+    "DIRECTOR": "Heather Lenz",
+    "GENERO": "[Documentary]",
     "LOCALIDAD": "N/A",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/paddington_two_ver2-150x210.jpg"
+    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
+  },
+  {
+    "TITULO": "Phantom Thread",
+    "RATING": 92,
+    "ESTUDIO": "Focus Features",
+    "DURACION": 130,
+    "DIRECTOR": "Paul Thomas Anderson",
+    "GENERO": "[Drama]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
   },
   {
     "TITULO": "Sorry to Bother You",
@@ -540,44 +710,24 @@
     "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/sorry_to_bother_you_ver10-150x210.jpg"
   },
   {
-    "TITULO": "The Cakemaker",
-    "RATING": 98,
-    "ESTUDIO": "Strand Releasing",
-    "DURACION": 105,
-    "DIRECTOR": "Ofir Raul Graizer",
-    "GENERO": "[Drama]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/The-Cakemaker-movie-poster-150x210.jpg"
-  },
-  {
-    "TITULO": "The Rider",
-    "RATING": 97,
-    "ESTUDIO": "Sony Pictures Classics",
-    "DURACION": 104,
-    "DIRECTOR": "Chlo%uFFFD Zhao",
-    "GENERO": "[Drama]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/rider-150x210.jpg"
-  },
-  {
-    "TITULO": "Wildlife",
-    "RATING": 94,
-    "ESTUDIO": "IFC Films",
-    "DURACION": 104,
-    "DIRECTOR": "Paul Dano",
-    "GENERO": "[Drama]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/wildlife-150x210.jpg"
-  },
-  {
-    "TITULO": "Isle of Dogs",
-    "RATING": 89,
+    "TITULO": "The Old Man & the Gun",
+    "RATING": 92,
     "ESTUDIO": "Fox Searchlight Pictures",
-    "DURACION": 101,
-    "DIRECTOR": "Wes Anderson",
-    "GENERO": "[Action   Adventure Animation Comedy]",
+    "DURACION": 93,
+    "DIRECTOR": "David Lowery",
+    "GENERO": "[Drama]",
     "LOCALIDAD": "N/A",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/isle_of_dogs_ver3-150x210.jpg"
+    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
+  },
+  {
+    "TITULO": "Mandy",
+    "RATING": 92,
+    "ESTUDIO": "RLJE Films",
+    "DURACION": 120,
+    "DIRECTOR": "Panos Cosmatos",
+    "GENERO": "[Action   Adventure Mystery   Suspense]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/MV5BMjk1MjhmZWQtNzU3OC00NDE4LThlODQtNTdhZGM4M2E3MWZkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_-150x210.jpg"
   },
   {
     "TITULO": "Searching",
@@ -590,64 +740,34 @@
     "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/searching_ver9-150x210.jpg"
   },
   {
-    "TITULO": "Spider-Man: Into the Spider-Verse",
-    "RATING": 97,
-    "ESTUDIO": "Sony Pictures",
-    "DURACION": 100,
-    "DIRECTOR": "Bob PersichettiPeter RamseyRodney Rothman",
-    "GENERO": "[Action   Adventure Animation Kids   Family Science Fiction   Fantasy]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
+    "TITULO": "Bumblebee",
+    "RATING": 92,
+    "ESTUDIO": "Paramount Pictures",
+    "DURACION": 114,
+    "DIRECTOR": "Travis Knight",
+    "GENERO": "[Action   Adventure Science Fiction   Fantasy]",
+    "LOCALIDAD": "Los Angeles",
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/DryMnm8UUAAoqiw.jpg-large-150x210.jpg"
   },
   {
-    "TITULO": "A Fantastic Woman (Una mujer fant%uFFFDstica)",
-    "RATING": 94,
-    "ESTUDIO": "Sony Pictures Classics",
-    "DURACION": 100,
-    "DIRECTOR": "Sebasti%uFFFDn Lelio",
-    "GENERO": "[Art House   International Drama]",
+    "TITULO": "Love Simon",
+    "RATING": 92,
+    "ESTUDIO": "20th Century Fox",
+    "DURACION": 109,
+    "DIRECTOR": "Greg Berlanti",
+    "GENERO": "[Drama]",
     "LOCALIDAD": "N/A",
-    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/love_simon-150x210.jpg"
   },
   {
-    "TITULO": "3 Faces",
-    "RATING": 95,
-    "ESTUDIO": "Celluloid Dreams",
-    "DURACION": 100,
-    "DIRECTOR": "Jafar Panahi",
-    "GENERO": "[Art House   International Drama]",
+    "TITULO": "The Ballad of Buster Scruggs",
+    "RATING": 92,
+    "ESTUDIO": "Netflix",
+    "DURACION": 132,
+    "DIRECTOR": "Joel CoenEthan Coen",
+    "GENERO": "[Drama Western]",
     "LOCALIDAD": "N/A",
-    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
-  },
-  {
-    "TITULO": "They Shall Not Grow Old",
-    "RATING": 97,
-    "ESTUDIO": "Warner Bros. Pictures",
-    "DURACION": 99,
-    "DIRECTOR": "Peter Jackson",
-    "GENERO": "[Art House   International Documentary]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
-  },
-  {
-    "TITULO": "Dark Money",
-    "RATING": 95,
-    "ESTUDIO": "PBS",
-    "DURACION": 99,
-    "DIRECTOR": "Kimberly Reed",
-    "GENERO": "[Documentary]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/Dark-Money-movie-poster-150x210.jpg"
-  },
-  {
-    "TITULO": "Free Solo",
-    "RATING": 98,
-    "ESTUDIO": "Greenwich Entertainment",
-    "DURACION": 97,
-    "DIRECTOR": "Elizabeth Chai VasarhelyiJimmy Chin",
-    "GENERO": "[Documentary]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/free_solo-150x210.jpg"
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/MV5BOTQxNjE0ODgtMzc2NC00ZTk0LTg4MmUtMGNjMDQ0NmFmOTU1XkEyXkFqcGdeQXVyNTMwNTc4NTY@._V1_SY1000_CR006861000_AL_-150x210.jpg"
   },
   {
     "TITULO": "Hearts Beat Loud",
@@ -670,103 +790,183 @@
     "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
   },
   {
-    "TITULO": "Summer 1993 (Estiu 1993)",
-    "RATING": 100,
-    "ESTUDIO": "Oscilloscope Laboratories",
-    "DURACION": 96,
-    "DIRECTOR": "Carla Sim%uFFFDn",
-    "GENERO": "[Art House   International Drama]",
+    "TITULO": "Revenge",
+    "RATING": 92,
+    "ESTUDIO": "Shudder and NEON",
+    "DURACION": 108,
+    "DIRECTOR": "Coralie Fargeat",
+    "GENERO": "[Action   Adventure Mystery   Suspense]",
     "LOCALIDAD": "N/A",
-    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/revenge_ver3-150x210.jpg"
   },
   {
-    "TITULO": "Three Identical Strangers",
-    "RATING": 96,
-    "ESTUDIO": "NEON",
-    "DURACION": 96,
-    "DIRECTOR": "Tim Wardle",
-    "GENERO": "[Documentary]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/THREEIDENTICAL_Poster_27x40_R1b-150x210.jpg"
-  },
-  {
-    "TITULO": "Shirkers",
-    "RATING": 100,
-    "ESTUDIO": "Netflix",
-    "DURACION": 96,
-    "DIRECTOR": "Sandi Tan",
-    "GENERO": "[Documentary]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/SHIRKERS_Vertical_RGB-150x210.jpg"
-  },
-  {
-    "TITULO": "RBG",
-    "RATING": 95,
-    "ESTUDIO": "Magnolia Pictures",
-    "DURACION": 96,
-    "DIRECTOR": "Betsy WestJulie Cohen",
-    "GENERO": "[Documentary]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/RBG-150x210.jpg"
-  },
-  {
-    "TITULO": "Oh Lucy!",
-    "RATING": 100,
-    "ESTUDIO": "Film Movement",
-    "DURACION": 96,
-    "DIRECTOR": "Atsuko Hirayanagi",
-    "GENERO": "[Comedy Drama]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
-  },
-  {
-    "TITULO": "In Between",
-    "RATING": 98,
-    "ESTUDIO": "Film Movement",
-    "DURACION": 96,
-    "DIRECTOR": "Maysaloun Hamoud",
+    "TITULO": "Widows",
+    "RATING": 91,
+    "ESTUDIO": "20th Century Fox",
+    "DURACION": 128,
+    "DIRECTOR": "Steve McQueen (III)",
     "GENERO": "[Drama]",
     "LOCALIDAD": "N/A",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/In-Between-movie-poster-150x210.jpg"
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/MV5BMjM3ODc5NDEyOF5BMl5BanBnXkFtZTgwMTI4MDcxNjM@._V1_SY1000_CR006311000_AL_-150x210.jpg"
   },
   {
-    "TITULO": "Blindspotting",
-    "RATING": 93,
-    "ESTUDIO": "Foley Walkers Studio",
-    "DURACION": 95,
-    "DIRECTOR": "Carlos Lopez Estrada",
-    "GENERO": "[Comedy Drama]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/blindspotting_ver4-150x210.jpg"
-  },
-  {
-    "TITULO": "Eighth Grade",
-    "RATING": 99,
-    "ESTUDIO": "A24",
-    "DURACION": 94,
-    "DIRECTOR": "Bo Burnham",
+    "TITULO": "Crazy Rich Asians",
+    "RATING": 91,
+    "ESTUDIO": "Warner Bros. Pictures",
+    "DURACION": 120,
+    "DIRECTOR": "Jon M. Chu",
     "GENERO": "[Comedy]",
     "LOCALIDAD": "N/A",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/unnamed-119-150x210.jpg"
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/MV5BMTYxNDMyOTAxN15BMl5BanBnXkFtZTgwMDg1ODYzNTM@._V1_SY1000_CR006741000_AL_-150x210.jpg"
   },
   {
-    "TITULO": "Won't You Be My Neighbor?",
-    "RATING": 98,
-    "ESTUDIO": "Focus Features",
-    "DURACION": 94,
-    "DIRECTOR": "Morgan Neville",
-    "GENERO": "[Documentary]",
+    "TITULO": "Teen Titans Go! To the Movies",
+    "RATING": 91,
+    "ESTUDIO": "Warner Bros. Pictures",
+    "DURACION": "N/A",
+    "DIRECTOR": "Aaron HorvathPeter Rida Michail",
+    "GENERO": "[Action   Adventure Animation Kids   Family]",
     "LOCALIDAD": "N/A",
     "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
   },
   {
-    "TITULO": "Filmworker",
-    "RATING": 96,
-    "ESTUDIO": "Kino Lorber",
-    "DURACION": 94,
-    "DIRECTOR": "Tony Zierra",
-    "GENERO": "[Art House   International Documentary]",
+    "TITULO": "A Star Is Born",
+    "RATING": 90,
+    "ESTUDIO": "Warner Bros. Pictures",
+    "DURACION": 135,
+    "DIRECTOR": "Bradley Cooper",
+    "GENERO": "[Drama]",
     "LOCALIDAD": "N/A",
+    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
+  },
+  {
+    "TITULO": "Lean on Pete",
+    "RATING": 90,
+    "ESTUDIO": "A24",
+    "DURACION": 121,
+    "DIRECTOR": "Andrew Haigh",
+    "GENERO": "[Drama]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/Lean-On-Pete-150x210.jpg"
+  },
+  {
+    "TITULO": "I Tonya",
+    "RATING": 89,
+    "ESTUDIO": "NEON",
+    "DURACION": 119,
+    "DIRECTOR": "Craig Gillespie",
+    "GENERO": "[Drama]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
+  },
+  {
+    "TITULO": "Hereditary",
+    "RATING": 89,
+    "ESTUDIO": "Windy Hill Pictures",
+    "DURACION": 127,
+    "DIRECTOR": "Ari Aster",
+    "GENERO": "[Drama Horror]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/Hereditary-movie-poster-150x210.jpg"
+  },
+  {
+    "TITULO": "Isle of Dogs",
+    "RATING": 89,
+    "ESTUDIO": "Fox Searchlight Pictures",
+    "DURACION": 101,
+    "DIRECTOR": "Wes Anderson",
+    "GENERO": "[Action   Adventure Animation Comedy]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/isle_of_dogs_ver3-150x210.jpg"
+  },
+  {
+    "TITULO": "Annihilation",
+    "RATING": 89,
+    "ESTUDIO": "Paramount Pictures",
+    "DURACION": "",
+    "DIRECTOR": "Alex Garland",
+    "GENERO": "[Action   Adventure Drama Science Fiction   Fantasy]",
+    "LOCALIDAD": "Windsor Great Park",
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/Annihilation-poster1-150x210.jpg"
+  },
+  {
+    "TITULO": "You Were Never Really Here",
+    "RATING": 89,
+    "ESTUDIO": "Amazon Studios",
+    "DURACION": 89,
+    "DIRECTOR": "Lynne Ramsay",
+    "GENERO": "[Drama Mystery   Suspense]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/you_were_never_really_here_ver6-150x210.jpg"
+  },
+  {
+    "TITULO": "First Man",
+    "RATING": 88,
+    "ESTUDIO": "Universal Pictures",
+    "DURACION": 138,
+    "DIRECTOR": "Damien Chazelle",
+    "GENERO": "[Drama]",
+    "LOCALIDAD": "Atlanta",
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/First-Man-movie-poster1-150x210.jpg"
+  },
+  {
+    "TITULO": "Ant-Man and the Wasp",
+    "RATING": 88,
+    "ESTUDIO": "Walt Disney Pictures",
+    "DURACION": 118,
+    "DIRECTOR": "Peyton Reed",
+    "GENERO": "[Action   Adventure Comedy Science Fiction   Fantasy]",
+    "LOCALIDAD": "Atlanta",
+    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
+  },
+  {
+    "TITULO": "The Post",
+    "RATING": 88,
+    "ESTUDIO": "20th Century Fox",
+    "DURACION": 115,
+    "DIRECTOR": "Steven Spielberg",
+    "GENERO": "[Drama Mystery   Suspense]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
+  },
+  {
+    "TITULO": "Ralph Breaks the Internet",
+    "RATING": 88,
+    "ESTUDIO": "Walt Disney Animation Studios",
+    "DURACION": 114,
+    "DIRECTOR": "Phil JohnstonRich Moore",
+    "GENERO": "[Animation Comedy Kids   Family Science Fiction   Fantasy]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
+  },
+  {
+    "TITULO": "American Animals",
+    "RATING": 88,
+    "ESTUDIO": "The Orchard",
+    "DURACION": 120,
+    "DIRECTOR": "Bart Layton",
+    "GENERO": "[Comedy Drama Mystery   Suspense]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/american_animals_ver4-150x210.jpg"
+  },
+  {
+    "TITULO": "Colette",
+    "RATING": 87,
+    "ESTUDIO": "Bleecker Street",
+    "DURACION": 111,
+    "DIRECTOR": "Wash Westmoreland",
+    "GENERO": "[Drama]",
+    "LOCALIDAD": "N/A",
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/MV5BYTg5YzEyYWMtNmZkNy00ZTJmLTgwM2UtMDJlOWYzMTE5YzUzXkEyXkFqcGdeQXVyNDY2MjcyOTQ@._V1_SY1000_SX675_AL_-150x210.jpg"
+  },
+  {
+    "TITULO": "Avengers: Infinity War",
+    "RATING": 85,
+    "ESTUDIO": "Walt Disney Pictures",
+    "DURACION": 156,
+    "DIRECTOR": "Anthony RussoJoe Russo",
+    "GENERO": "[Action   Adventure Science Fiction   Fantasy]",
+    "LOCALIDAD": "Pinewood Atlanta Studios",
     "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
   },
   {
@@ -780,223 +980,23 @@
     "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/tully-150x210.jpg"
   },
   {
-    "TITULO": "The Old Man & the Gun",
-    "RATING": 92,
-    "ESTUDIO": "Fox Searchlight Pictures",
-    "DURACION": 93,
-    "DIRECTOR": "David Lowery",
-    "GENERO": "[Drama]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
+    "TITULO": "A Simple Favor",
+    "RATING": 85,
+    "ESTUDIO": "Lionsgate",
+    "DURACION": 116,
+    "DIRECTOR": "Paul Feig",
+    "GENERO": "[Mystery   Suspense]",
+    "LOCALIDAD": "Elmcrest Public School",
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/simple_favor_ver8-150x210.jpg"
   },
   {
-    "TITULO": "Minding the Gap",
-    "RATING": 100,
-    "ESTUDIO": "Hulu",
-    "DURACION": 93,
-    "DIRECTOR": "Bing Liu",
-    "GENERO": "[Documentary]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/MV5BMTA0MDk4MzMwOTBeQTJeQWpwZ15BbWU4MDE3MzYxOTUz._V1_SY1000_CR006751000_AL_-150x210.jpg"
-  },
-  {
-    "TITULO": "Leaning Into the Wind",
-    "RATING": 98,
-    "ESTUDIO": "Magnolia Pictures",
-    "DURACION": 93,
-    "DIRECTOR": "Thomas Riedelsheimer",
-    "GENERO": "[Art House   International Documentary]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/leaning_into_the_wind_andy_goldsworthy-150x210.jpg"
-  },
-  {
-    "TITULO": "Custody (Jusqu'%uFFFD la garde)",
-    "RATING": 94,
-    "ESTUDIO": "Kino Lorber",
-    "DURACION": 93,
-    "DIRECTOR": "Xavier Legrand",
-    "GENERO": "[Drama]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
-  },
-  {
-    "TITULO": "A Quiet Place",
-    "RATING": 95,
-    "ESTUDIO": "Paramount Pictures",
-    "DURACION": 90,
-    "DIRECTOR": "John Krasinski",
-    "GENERO": "[Drama Horror Mystery   Suspense]",
-    "LOCALIDAD": "Little Falls New York USA",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/quiet_place-150x210.jpg"
-  },
-  {
-    "TITULO": "Science Fair",
-    "RATING": 98,
-    "ESTUDIO": "National Geographic Documentary Films",
-    "DURACION": 90,
-    "DIRECTOR": "Cristina CostantiniDarren Foster",
-    "GENERO": "[Documentary]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/MV5BODVhOTViYTUtZmZmYy00Y2Y3LTlkMWItNzY4ZWQxMzA1ZjVlXkEyXkFqcGdeQXVyMzM1MTk1Mzg@._V1_SY1000_CR006751000_AL_-150x210.jpg"
-  },
-  {
-    "TITULO": "I Am Not a Witch",
-    "RATING": 97,
-    "ESTUDIO": "Film Movement",
-    "DURACION": 90,
-    "DIRECTOR": "Rungano Nyoni",
-    "GENERO": "[Art House   International Drama]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/MV5BMmZiMmEzMzAtYzhiZi00NjMwLWJmNzMtMjRkNTI2YTM5N2FiXkEyXkFqcGdeQXVyNTkyMjQwNw@@._V1_SY1000_SX675_AL_-150x210.jpg"
-  },
-  {
-    "TITULO": "Support the Girls",
-    "RATING": 94,
-    "ESTUDIO": "Magnolia Pictures",
-    "DURACION": 90,
-    "DIRECTOR": "Andrew Bujalski",
-    "GENERO": "[Comedy]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/MV5BMWI5YWY1OTAtZmNjMy00M2JhLThmYWItZWM3MmI2YmM4MjJjXkEyXkFqcGdeQXVyODAzODU1NDQ@._V1_SY1000_CR006741000_AL_-150x210.jpg"
-  },
-  {
-    "TITULO": "Cold War (Zimna wojna)",
-    "RATING": 94,
-    "ESTUDIO": "Amazon Studios",
-    "DURACION": 89,
-    "DIRECTOR": "Pawel Pawlikowski",
-    "GENERO": "[Drama Romance]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
-  },
-  {
-    "TITULO": "You Were Never Really Here",
-    "RATING": 89,
-    "ESTUDIO": "Amazon Studios",
-    "DURACION": 89,
-    "DIRECTOR": "Lynne Ramsay",
-    "GENERO": "[Drama Mystery   Suspense]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/you_were_never_really_here_ver6-150x210.jpg"
-  },
-  {
-    "TITULO": "Bisbee '17",
-    "RATING": 96,
-    "ESTUDIO": "Impact Partners",
-    "DURACION": 89,
-    "DIRECTOR": "Robert Greene",
-    "GENERO": "[Documentary Western]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
-  },
-  {
-    "TITULO": "Night Comes On",
-    "RATING": 100,
-    "ESTUDIO": "Samuel Goldwyn Films",
-    "DURACION": 87,
-    "DIRECTOR": "Jordana Spiro",
-    "GENERO": "[Drama]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/Night-Comes-On-movie-poster-150x210.jpg"
-  },
-  {
-    "TITULO": "The Guilty (Den skyldige)",
-    "RATING": 99,
-    "ESTUDIO": "Magnolia Pictures",
-    "DURACION": 85,
-    "DIRECTOR": "Gustav M%uFFFDller",
-    "GENERO": "[Drama Mystery   Suspense]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
-  },
-  {
-    "TITULO": "Kusama: Infinity",
-    "RATING": 93,
-    "ESTUDIO": "Magnolia Pictures",
-    "DURACION": 85,
-    "DIRECTOR": "Heather Lenz",
-    "GENERO": "[Documentary]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
-  },
-  {
-    "TITULO": "Pick of the Litter",
-    "RATING": 100,
-    "ESTUDIO": "Sundance Selects",
-    "DURACION": 81,
-    "DIRECTOR": "Dana NachmanDon Hardy Jr.",
-    "GENERO": "[Documentary]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/Pick-of-the-Litter-150x210.jpg"
-  },
-  {
-    "TITULO": "Hale County This Morning This Evening",
-    "RATING": 96,
-    "ESTUDIO": "The Cinema Guild",
-    "DURACION": 76,
-    "DIRECTOR": "RaMell Ross",
-    "GENERO": "[Documentary]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/MV5BODBhYmI0NzItODlmNi00OWEzLWI5YWUtOTI0MmY2ZDQxMGQ3XkEyXkFqcGdeQXVyNDUzMzUyNg@@._V1_SY1000_SX675_AL_-150x210.jpg"
-  },
-  {
-    "TITULO": "Hannah Gadsby: Nanette",
-    "RATING": 100,
-    "ESTUDIO": "Netflix",
-    "DURACION": 69,
-    "DIRECTOR": "Madeleine ParryJon Olb",
-    "GENERO": "[Comedy]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
-  },
-  {
-    "TITULO": "Tea With the Dames (Nothing Like a Dame)",
-    "RATING": 99,
-    "ESTUDIO": "94 minutes",
-    "DURACION": 0,
-    "DIRECTOR": "Roger Michell",
-    "GENERO": "[Documentary]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
-  },
-  {
-    "TITULO": "Annihilation",
-    "RATING": 89,
-    "ESTUDIO": "Paramount Pictures",
-    "DURACION": 0,
-    "DIRECTOR": "Alex Garland",
-    "GENERO": "[Action   Adventure Drama Science Fiction   Fantasy]",
-    "LOCALIDAD": "Windsor Great Park Windsor Berkshire England UK",
-    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/Annihilation-poster1-150x210.jpg"
-  },
-  {
-    "TITULO": "Ryuichi Sakamoto: Coda",
-    "RATING": 98,
-    "ESTUDIO": "102 minutes",
-    "DURACION": 0,
-    "DIRECTOR": "",
-    "GENERO": "[Documentary]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
-  },
-  {
-    "TITULO": "CAM",
-    "RATING": 94,
-    "ESTUDIO": "94 minutes",
-    "DURACION": 0,
-    "DIRECTOR": "Daniel Goldhaber",
-    "GENERO": "[Horror Mystery   Suspense]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
-  },
-  {
-    "TITULO": "Teen Titans Go! To the Movies",
-    "RATING": 91,
-    "ESTUDIO": "Warner Bros. Pictures",
-    "DURACION": 0,
-    "DIRECTOR": "Aaron HorvathPeter Rida Michail",
-    "GENERO": "[Action   Adventure Animation Kids   Family]",
-    "LOCALIDAD": "N/A",
-    "IMAGEN": "https://png.pngtree.com/element_origin_min_pic/16/12/23/5550bb8f0634d44a1c26292adc4e2e6c.jpg"
+    "TITULO": "Deadpool 2",
+    "RATING": 83,
+    "ESTUDIO": "20th Century Fox",
+    "DURACION": 119,
+    "DIRECTOR": "David Leitch",
+    "GENERO": "[Action   Adventure Comedy]",
+    "LOCALIDAD": "Vancouver",
+    "IMAGEN": "https://www.wildaboutmovies.com/wp-content/uploads/deadpool_two_ver3-150x210.jpg"
   }
 ]

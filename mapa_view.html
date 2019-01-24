@@ -1,92 +1,83 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Geocoding Service</title>
-    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
     <meta charset="utf-8">
-    <style>
-      /* Always set the map height explicitly to define the size of the div
-       * element that contains the map. */
-      #map {
-        height: 100%;
-      }
-      /* Optional: Makes the sample page fill the window. */
-      html, body {
-        height: 100%;
-        margin: 0;
-        padding: 0;
-      }
-      #floating-panel {
-        position: absolute;
-        top: 10px;
-        left: 25%;
-        z-index: 5;
-        background-color: #fff;
-        padding: 5px;
-        border: 1px solid #999;
-        text-align: center;
-        font-family: 'Roboto','sans-serif';
-        line-height: 30px;
-        padding-left: 10px;
-      }
-    </style>
-  </head>
-  <body>    
-    <div id="map"></div>
-    <script type="text/javascript">
-      $(document).ready(function(){      
-        initMap();
-      });
-    </script>
+    <meta name="viewport" content="width=device-width">
+    <title>¿Dónde se graban las peliculas?</title>
+    <link href="estilo.css" rel="stylesheet" type="text/css" />
+    <link href="mapa.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="shortcut icon" href="https://png.pngtree.com/element_origin_min_pic/17/07/28/7f1dc8f645c9ca6cd5fdc80a66a95e88.jpg">
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,700' rel='stylesheet' type='text/css'>
+    <link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.4.2/css/all.css' integrity='sha384-/rXc/GQVaYpyDdyxK+ecHPVYJSN9bmVFBvjA/9eOB+pb3F2w2N6fc5qB9Ew5yIns' crossorigin='anonymous'>
+    <script src="https://cdn.anychart.com/releases/v8/js/anychart-base.min.js?hcode=be5162d915534272a57d0bb781d27f2b">
 
-    <script>      
-      
-        
-        function initMap() {
-          var map = new google.maps.Map(document.getElementById('map'), {
-            zoom: 8,
-            center: {lat: -34.397, lng: 150.644}
-          });
+  </script>
+  <script src="https://cdn.anychart.com/releases/v8/js/anychart-ui.min.js?hcode=be5162d915534272a57d0bb781d27f2b">
 
-          var lista = ['Pixar Animation Studios - 1200 Park Avenue Emeryville California USA']
+  </script>
+  <script src="https://cdn.anychart.com/releases/v8/js/anychart-exports.min.js?hcode=be5162d915534272a57d0bb781d27f2b">
 
-          var geocoder = new google.maps.Geocoder(); 
+  </script>
+  <link rel="stylesheet" href="https://cdn.anychart.com/releases/v8/css/anychart-ui.min.css?hcode=be5162d915534272a57d0bb781d27f2b"
+  />
+  <link rel="stylesheet" href="https://cdn.anychart.com/releases/v8/fonts/css/anychart-font.min.css?hcode=be5162d915534272a57d0bb781d27f2b"
+  />
+  <script src="mapa.js">
 
-          var infoWindowContent = [
-        ['<div class="info_content">' +
-        '<h3>Brooklyn Museum</h3>']
+  </script>
+  <body>
+<body>
+<div class="container">
+            
+  <div class="row sticky-top">
+                <nav class="navbar navbar-expand-sm navbar-dark  col-md-12">
+                  <a class="navbar-brand home" href="index.html"><i class="fas fa-home"></i></a>
+                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                     <span class="navbar-toggler-icon"></span>
+                     </button>
+                    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                        <ul class="list-inline navbar-nav mx-auto">
+                               <li class="list-inline-item nav-intem active"><a href="mejorespeliculas.html" class="nav-link">Mejores Películas</a></li>
+                                <li class="list-inline-item nav-intem active"><a href="cineestadistico.html" class="nav-link">Cine estadístico</a></li>
+                                <li class="list-inline-item nav-intem active"><a href="mapa_view.html" class="nav-link">GeoCine</a></li>
+                                <li class="list-inline-item nav-intem active"><a href="contacto.html" class="nav-link">Cine Calidad</a></li>
+                        </ul>      
+                        </ul>    
+                    </div> 
+               
+                </nav>
+  </div>
+  <div class="row">
+        <div class="gallery col-lg-12 col-md-12 col-sm-12 col-xs-12 mt-4">
+            <h1>Estadísticas </h1>
+        </div>
+        </div>
 
-          geocodeAddress(geocoder, map, lista);
+
+      <div class="row">
+        <div class="gallery_product col-lg-12 col-md-12 col-sm-12 col-xs-12 ">
                 
-        }
+                        
+                        <br>Muchas de las peliculas se graban en diferentes lugares del mundo, en pequeñas ciudades, estudios, o al aire libre en diferentes partes del mundo. La ciudad por preferencia para grabar es Los Angeles, Estados Unidos, otras ciudades como Londres y parís son preferidas por los directores de cine. A continuación se presenta un pequeño mapa  con el TOP 5 de lugares preferidos para grabar las mejores peliculas del último año. 
+                        <br>
+                  </p>
+                 </div>
+        </div>
+   
+       </div>
+        <div id="map"></div>
+   
 
-        function geocodeAddress(geocoder, resultsMap, lista) {
-          //var address = document.getElementById('address').value;
-          for(var i=0;i<lista.length;i++){
-            var address = lista[i];
-            geocoder.geocode({'address': address}, function(results, status) {
-              if (status === 'OK') {
-                resultsMap.setCenter(results[0].geometry.location);
-                var marker = new google.maps.Marker({
-                  map: resultsMap,
-                  position: results[0].geometry.location
-                });
-              } else {
-                alert('Geocode was not successful for the following reason: ' + status);
-              }
-            });  
-
-            google.maps.event.addListener(marker, 'click', (function(marker, i) {
-            return function() {
-                infoWindow.setContent(infoWindowContent[i][0]);
-                infoWindow.open(map, marker);
-            }
-        })(marker, i));
-          }          
-        }    
-    </script>
+   <script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
     <script async defer
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC92qUVqGRPi4ZnkBDtQnCDs9DNdbD0Evg&callback=initMap">
     </script>
   </body>
+
 </html>
